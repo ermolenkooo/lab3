@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>DelegateForRiver.qml</file>
+        <file>DialogForAdd.qml</file>
+        <file>DialogForAnswer.qml</file>
+        <file>DialogForEdit.qml</file>
+        <file>main.qml</file>
+    </qresource>
+</RCC>
